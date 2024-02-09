@@ -19,5 +19,6 @@ results
 .DS_Store
 Thumbs.db
 
-# git script
+# files
 gitscript.sh
+note.txt
