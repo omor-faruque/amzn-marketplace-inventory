@@ -1,0 +1,24 @@
+[
+    {
+        "store": "bargainshark",
+        "location": "1553 Victoria Park Ave, Toronto, M1L 2T5",
+        "products": [
+            {
+                "link": "https://bargainshark.ca/products/30-ct-goody-ouchless-non-metal-medium-hair-elastics",
+                "img":"https://bargainshark.ca/cdn/shop/products/IMG_6781_360x.jpg",
+                "currentStorePrice": "3.45",
+                "currentStockInStore": 6,
+                "titleInAmzn": "Goody Ouchless No Metal Elastics, 30 Count Colorful Solids & Chevrons by Goody",
+                "myPriceOnAmazon": "15.80"
+            },
+            {
+                "link": "https://bargainshark.ca/products/30ct-goody-ouchless-damage-free-hold-elastics",
+                "img": "https://bargainshark.ca/cdn/shop/products/black_47fe72e2-40f3-490e-8afe-17f0474d9546_180x.jpg",
+                "currentStorePrice": "3.45",
+                "currentStockInStore": 1,
+                "titleInAmzn": "Goody Womens Ouchless Braided Elastics, Brown 30CT",
+                "myPriceOnAmazon": "12.95"
+            }
+        ]
+    }
+]
