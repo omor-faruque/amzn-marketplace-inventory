@@ -1,0 +1,11 @@
+{
+  "name": "amzn-inventory-app",
+  "version": "1.0.0",
+  "description": "This is to track inventory for amazon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omor Faruque",
+  "license": "ISC"
+}
