@@ -30,29 +30,55 @@
         "location": "Uline Canada 3333 James Snow Pkwy N Milton, ON L9T 8L1 ",
         "products": [
             {
+                "titleInAmzn": "100 Count - 3\" x 5\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
+                "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
+                "img": "https://img.uline.com/is/image/uline/HD_208",
+                "currentStorePrice": "6.00/100",
+                "currentStockInStore": 1111,
+                "myPriceOnAmazon": "12.80",
+                "active": true,
+                "alternateSourcingLink": [
+                    "https://www.staples.ca/products/2992437-en-crownhill-packaging-reclosable-poly-bag-2-mil-3-w-x-5-l-100-pack"
+                ]
+            },
+            {
                 "titleInAmzn": "100 Count - 4\" x 6\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
                 "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
                 "img": "https://img.uline.com/is/image/uline/HD_208",
                 "currentStorePrice": "6.00/100",
-                "currentStockInStore": 99,
+                "currentStockInStore": 1111,
                 "myPriceOnAmazon": "13.50",
                 "active": true,
                 "alternateSourcingLink": [
                     "https://www.staples.ca/products/2992441-en-crownhill-packaging-reclosable-poly-bag-2-mil-4-w-x-6-l-100-pack"
                 ]
             },
+   
             {
-                "titleInAmzn": "100 Count - 3\" x 5\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
+                "titleInAmzn": "100 Count - 5\" x 7\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
                 "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
                 "img": "https://img.uline.com/is/image/uline/HD_208",
-                "currentStorePrice": "6.00/100",
-                "currentStockInStore": 99,
-                "myPriceOnAmazon": "13.50",
+                "currentStorePrice": "6.70/100",
+                "currentStockInStore": 1111,
+                "myPriceOnAmazon": "14.80",
                 "active": true,
                 "alternateSourcingLink": [
-                    "https://www.staples.ca/products/2992441-en-crownhill-packaging-reclosable-poly-bag-2-mil-4-w-x-6-l-100-pack"
+                    "https://www.staples.ca/products/2992442-en-crownhill-packaging-reclosable-poly-bag-2-mil-5-w-x-7-l-100-pack"
+                ]
+            },
+            {
+                "titleInAmzn": "100 Count - 6\" x 9\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
+                "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
+                "img": "https://img.uline.com/is/image/uline/HD_208",
+                "currentStorePrice": "7.50/100",
+                "currentStockInStore": 1111,
+                "myPriceOnAmazon": "19.50",
+                "active": true,
+                "alternateSourcingLink": [
+                    "https://www.staples.ca/products/2992446-en-crownhill-packaging-reclosable-poly-bag-2-mil-6-w-x-9-l-100-pack"
                 ]
             }
+            
         ]
     }
 ]
