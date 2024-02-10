@@ -75,12 +75,25 @@
                 "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
                 "img": "https://img.uline.com/is/image/uline/HD_208",
                 "currentStorePriceWithOutShipping":"51 / 1000",
-                "currentStorePriceWithShipping": "7.50/100",
+                "currentStorePriceWithShipping": "7.5 / 100",
                 "currentStockInStore": 1111,
                 "myPriceOnAmazon": "19.50",
                 "active": true,
                 "alternateSourcingLink": [
                     "https://www.staples.ca/products/2992446-en-crownhill-packaging-reclosable-poly-bag-2-mil-6-w-x-9-l-100-pack"
+                ]
+            },
+            {
+                "titleInAmzn": "100 Count - 8\" x 10\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Clothing, T-Shirt, Brochure, Prints, Handicraft Gift",
+                "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
+                "img": "https://img.uline.com/is/image/uline/HD_208",
+                "currentStorePriceWithOutShipping":"69 / 1000",
+                "currentStorePriceWithShipping": "9.5 / 100",
+                "currentStockInStore": 1111,
+                "myPriceOnAmazon": "19.50",
+                "active": true,
+                "alternateSourcingLink": [
+                    "https://www.staples.ca/products/2992447-en-crownhill-packaging-reclosable-poly-bag-2-mil-8-w-x-10-l-100-pack"
                 ]
             }
             
