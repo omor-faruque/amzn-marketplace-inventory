@@ -4,20 +4,54 @@
         "location": "1553 Victoria Park Ave, Toronto, M1L 2T5",
         "products": [
             {
+                "titleInAmzn": "Goody Ouchless No Metal Elastics, 30 Count Colorful Solids & Chevrons by Goody",
                 "link": "https://bargainshark.ca/products/30-ct-goody-ouchless-non-metal-medium-hair-elastics",
-                "img":"https://bargainshark.ca/cdn/shop/products/IMG_6781_360x.jpg",
+                "img": "https://bargainshark.ca/cdn/shop/products/IMG_6781_360x.jpg",
                 "currentStorePrice": "3.45",
                 "currentStockInStore": 6,
-                "titleInAmzn": "Goody Ouchless No Metal Elastics, 30 Count Colorful Solids & Chevrons by Goody",
-                "myPriceOnAmazon": "15.80"
+                "myPriceOnAmazon": "15.80",
+                "active": false,
+                "alternateSourcingLink": []
             },
             {
+                "titleInAmzn": "Goody Womens Ouchless Braided Elastics, Brown 30CT",
                 "link": "https://bargainshark.ca/products/30ct-goody-ouchless-damage-free-hold-elastics",
                 "img": "https://bargainshark.ca/cdn/shop/products/black_47fe72e2-40f3-490e-8afe-17f0474d9546_180x.jpg",
                 "currentStorePrice": "3.45",
                 "currentStockInStore": 1,
-                "titleInAmzn": "Goody Womens Ouchless Braided Elastics, Brown 30CT",
-                "myPriceOnAmazon": "12.95"
+                "myPriceOnAmazon": "12.95",
+                "active": true,
+                "alternateSourcingLink": []
+            }
+        ]
+    },
+    {
+        "store": "uline",
+        "location": "Uline Canada 3333 James Snow Pkwy N Milton, ON L9T 8L1 ",
+        "products": [
+            {
+                "titleInAmzn": "100 Count - 4\" x 6\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
+                "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
+                "img": "https://img.uline.com/is/image/uline/HD_208",
+                "currentStorePrice": "6.00/100",
+                "currentStockInStore": 99,
+                "myPriceOnAmazon": "13.50",
+                "active": true,
+                "alternateSourcingLink": [
+                    "https://www.staples.ca/products/2992441-en-crownhill-packaging-reclosable-poly-bag-2-mil-4-w-x-6-l-100-pack"
+                ]
+            },
+            {
+                "titleInAmzn": "100 Count - 3\" x 5\", 2 Mil Clear Plastic Reclosable Zip Poly Bags with Resealable Lock Seal Zipper for Photo, Jewelry, Bakery, Treats, Party Favors",
+                "link": "https://www.uline.ca/BL_208/Uline-2-Mil-Reclosable-Bags",
+                "img": "https://img.uline.com/is/image/uline/HD_208",
+                "currentStorePrice": "6.00/100",
+                "currentStockInStore": 99,
+                "myPriceOnAmazon": "13.50",
+                "active": true,
+                "alternateSourcingLink": [
+                    "https://www.staples.ca/products/2992441-en-crownhill-packaging-reclosable-poly-bag-2-mil-4-w-x-6-l-100-pack"
+                ]
             }
         ]
     }
