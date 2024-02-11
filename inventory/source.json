@@ -146,5 +146,22 @@
             }
             
         ]
+    },
+    {
+        "store": "canadiantire",
+        "location": "Danforth",
+        "products": [
+            {
+                "titleInAmzn": "REYNOLDS Kitchens AIR Fryer Liners 50CT ",
+                "link": "https://www.canadiantire.ca/en/pdp/reynolds-kitchens-unbleached-non-stick-air-fryer-liners-50-pc-1531211p.1531211.html",
+                "img": "https://media-www.canadiantire.ca/product/living/home-essentials/household-consumables/1531211/reynolds-air-fryer-liners-50-count-0231133f-52c5-441c-a84f-aae6d36a8cf7.png",
+                "currentStorePriceWithOutShipping":"9.99",
+                "currentStorePriceWithShipping": "",
+                "currentStockInStore": 13,
+                "myPriceOnAmazon": "18.95",
+                "active": true,
+                "alternateSourcingLink": []
+            }
+        ]
     }
 ]
