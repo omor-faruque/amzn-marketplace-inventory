@@ -43,5 +43,22 @@
                 "alternateSourcingLink": []
             }
         ]
+    },
+    {
+        "store": "sukoshi mart",
+        "location": "STC",
+        "products": [
+            {
+                "titleInAmzn": "COSRX Clear Fit Master Patch (18 Patches)",
+                "link": "https://sukoshimart.com/products/cosrx-clear-fit-master-patch",
+                "img": "https://sukoshimart.com/cdn/shop/products/cosrx-clear-fit-master-patch-18-main_1024x1024.png",
+                "currentStorePriceWithOutShipping":"5.70",
+                "currentStorePriceWithShipping": "",
+                "currentStockInStore": 1111,
+                "myPriceOnAmazon": "13.50",
+                "active": true,
+                "alternateSourcingLink": []
+            }
+        ]
     }
 ]
